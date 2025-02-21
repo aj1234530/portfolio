@@ -3,8 +3,7 @@ name: Deploy React App to S3
 on:
   push:
     branches:
-      - main #trigger on push to main branch
-#deployement job on ubunty provided by github
+      - main 
 jobs:
   deploy:
     runs-on: ubuntu-22.04
