@@ -10,7 +10,7 @@ import Footer from "../components/Footer";
 
 function Home() {
   return (
-    <div className="max-w-4xl mx-auto px-4 font-garamond">
+    <div className="max-w-4xl mx-auto px-4 font-garamond bg-gray-50">
       <Navbar />
       <div className="w-full h-full flex flex-col md:flex-row-reverse  p-4 gap-4">
         <div className="md:w-1/3 flex flex-col items-center  ">

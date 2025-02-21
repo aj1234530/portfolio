@@ -22,7 +22,10 @@ function MoreProjects() {
           </li>
           <li className="flex flex-row items-center gap-2">
             <h1 className="font-bold">PORTFOLIO-WEBSITE: </h1>
-            <p>React App deployed on S3 and distributed through CloudFront</p>
+            <p>
+              React App deployed on S3 and distributed through CloudFront,
+              Github Actions for CI/CD
+            </p>
             <a href="" className="font-light text-xs">
               GITHUB
             </a>
