@@ -5,7 +5,7 @@ function Navbar() {
 
       <div className="py-4 px-5 gap-4 flex ">
         {/* links */}
-        <a href="#home" className="text-secondary-color">
+        <a href="#home" className="  text-secondary-color">
           Home
         </a>
         <a href="#about" className="text-secondary-color">
@@ -18,10 +18,6 @@ function Navbar() {
           Contact
         </a>
       </div>
-      <img
-        className="max-w-[243px] md:hidden border rounded-full"
-        src="https://nadh.in/static/images/kailash-2024.jpg"
-      ></img>
     </div>
   );
 }
