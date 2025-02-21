@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <div className="flex flex-col md:flex-row md:justify-between md:items-center items-center py-5">
-      <h1 className="text-2xl font-bold">Abhimanyu Jay</h1>
+      <h1 className="text-4xl font-bold">Abhimanyu Jay</h1>
 
       <div className="py-4 px-5 gap-4 flex ">
         {/* links */}
