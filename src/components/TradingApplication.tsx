@@ -4,9 +4,19 @@ function TradingApplication() {
       <div className="flex flex-row items-center gap-2 pt-2 px-1">
         <h1 className="font-bold">1. TRADING APPLICATION</h1>
         <div className="flex flex-row gap-2 font-light font text-xs ">
-          <a href="#">GITHUB</a>
-          <a href="#">DEMO</a>
-          <a href="#">LIVE</a>
+          <a href="https://github.com/aj1234530/proboV2.0" target="_blank">
+            GITHUB
+          </a>
+          <a
+            href="https://www.loom.com/share/67296796d0424c179b467d93b4802eac?sid=7b4e0d1b-942f-4b89-a6e4-b2616319572d"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            DEMO
+          </a>
+          <a href="http://trade.abhi-jay.in" target="_blank">
+            LIVE
+          </a>
         </div>
       </div>
       <div>
