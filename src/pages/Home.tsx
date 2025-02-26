@@ -18,7 +18,7 @@ function Home() {
           <img
             className="max-w-[300px] h-[200px] border rounded-full filter grayscale"
             src="/profile.png"
-            alt="Profile photo"
+            // alt="Profile photo"
           />
           <Github />
           <Skills />
