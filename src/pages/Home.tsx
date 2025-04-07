@@ -7,7 +7,6 @@ import LinkShortenerer from "../components/LinkShortener";
 import TypingTestApp from "../components/TypingTestApp";
 import MoreProjects from "../components/MoreProjects";
 import Footer from "../components/Footer";
-import Education from "../components/Education";
 
 function Home() {
   return (
@@ -22,7 +21,6 @@ function Home() {
           />
           <Github />
           <Skills />
-          <Education />
         </div>
 
         <section id="projects" className="md:w-2/3 ">
